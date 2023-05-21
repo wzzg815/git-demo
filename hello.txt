@@ -3,3 +3,5 @@ hello git!
 hello git!
 
 hot-fix test git!
+
+master text2 git!
