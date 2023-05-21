@@ -4,4 +4,7 @@ hello git!
 
 hot-fix test git!
 
-master text2 git!
+<<<<<<< HEAD
+=======
+hot-fix test git2!
+>>>>>>> hot-fix
